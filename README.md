@@ -63,4 +63,4 @@ Developed by **Balaji257**
 
 ## 📷 Dashboard Preview  
 
-![Pizza Sales Dashboard](images/Pizza sales dashboard.jpg)
+![Pizza Sales Dashboard](images/Pizza%20sales%20dashboard.jpg)
